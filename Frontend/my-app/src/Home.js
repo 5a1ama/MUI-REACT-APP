@@ -2,7 +2,6 @@ import Sidebar from "./components/Sidebar"
 import Feed from "./components/Feed"
 import Rightbar from "./components/Rightbar"
 import Navbar from "./components/Navbar"
-import './Home.css'
 import {Box, Stack} from "@mui/material"
 import Add from "./components/Add";
 
